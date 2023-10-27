@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on the HackNC project
+- 📫 How to reach me: Instagram: ezediaz.eze
+
+
 
 <!--
 **Ezequiel-Diaz/Ezequiel-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
