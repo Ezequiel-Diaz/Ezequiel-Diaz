@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java
-- 👯 I’ve attended one hackathon, looking for more exeriences to improve my knowledge
+- 👯 I’ve attended one hackathon, looking for more experiences to improve my knowledge
 - 📫 How to reach me: Instagram: ezediaz.eze
 
 
