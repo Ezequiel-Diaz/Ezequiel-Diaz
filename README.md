@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on the HackNC project
+- 👯 I’ve attended one hackathon, looking for more exeriences to improve my knowledge
 - 📫 How to reach me: Instagram: ezediaz.eze
 
 
