@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java
-- 👯 I’ve attended one hackathon, looking for more experiences to improve my knowledge
-- 📫 How to reach me: Instagram: ezediaz.eze
+- Familiar with: Wireshark, Metasploit,
+OpenVAS, VirtualBox, Kali
+Linux, SQL, Git, Next.js, Prisma
+- Attended HackNC 2023
 
 
 
